@@ -1,0 +1,11 @@
+.todolist{
+    color: aliceblue;
+    margin: 0 auto;
+    text-align: center;
+}
+.input{
+    width:200px ;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border:2px solid green
+}

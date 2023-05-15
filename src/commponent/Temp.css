@@ -1,0 +1,43 @@
+ .effect {
+    margin: 0 auto;
+     width: 176px;
+ }
+
+ .temp {
+     border-radius: 50%;
+     padding: 65px 45px;
+     border: 2px solid blue;
+     background-color: aqua;
+     text-align: center;
+ }
+
+ .radius {
+     margin-top: 20px;
+     display: flex;
+     gap: 30px
+ }
+
+ .plus {
+     
+     border-radius: 50%;
+     padding:36px 42px;
+     border: 2px solid blue;
+     background-color: darkgrey;
+
+ }
+
+ .minus {
+    
+     border-radius: 50%;
+     padding: 36px 42px;
+     border: 2px solid blue;
+     background-color: darkgrey;
+ }
+ .extra{
+    color: white;
+    background-color: brown;
+    border-radius: 82px;
+    padding: 60px 42px;
+    border: 2px solid red;
+
+ }
